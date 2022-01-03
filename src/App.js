@@ -18,7 +18,6 @@ function App() {
         <button>Welcome</button>
       </Welcome> */}
       <Message name= "Sakshi">
-        <button>Subscribe</button>
       </Message>
     </div>
   );
